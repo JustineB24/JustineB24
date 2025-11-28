@@ -1,7 +1,7 @@
 # Salut, moi c'est Justine 👋
 
 ## 💻 À propos de moi
-- 🎓 Étudiante en BTS SIO option SLAM à Amiens.
+- 🎓 Étudiante en Bachelor à La Manu de Compiègne.
 - 🔥 Passionnée par le développement web, la programmation et tout ce qui est geek !
 - 🎮 Fan de jeux vidéo, de musique, de rétro-gaming et d'univers nerd.
 - 📚 Compétences : Python, HTML, CSS, JavaScript, PHP, C#, SQL, Windows Forms, CyberSécurité.
