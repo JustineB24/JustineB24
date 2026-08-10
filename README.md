@@ -6,25 +6,19 @@ Développeuse en alternance sur une application métier en production, et étudi
 
 ## 💻 Ce que je fais
 
-- 🏢 **En alternance chez [Litesoft](https://www.litesoft.fr/)**, je travaille à temps plein sur un ERP en production :
-  reprise de code existant, refonte du moteur de filtres de l'application, migration d'interface, sécurité et
-  performance. J'y apprends surtout à être autonome dans une grande base de code d'équipe.
-- 🎓 **En Bachelor**, un projet de groupe à quatre : une application web de blind test musical multijoueur en temps réel.
-- 🎮 Jeux vidéo, musique, rétro-gaming et univers nerd le reste du temps.
-
-## 🧰 Ma stack
-
-|            |                                                              |
-|------------|--------------------------------------------------------------|
-| **Back**   | PHP · Node.js · C# · MySQL · PostgreSQL                      |
-| **Front**  | JavaScript · React · React Native · Tailwind CSS · Bootstrap |
-| **Outils** | Git · Docker · Figma · Postman                               |
+- 🏢 **En alternance chez [Litesoft](https://www.litesoft.fr/)**, je travaille à temps plein sur un ERP en production, en
+  **PHP** et **JavaScript** : reprise de code existant, refonte du moteur de filtres de l'application, migration de
+  **Bootstrap** vers **Tailwind** sur près de 200 pages, optimisations **SQL**, sécurité et performance. J'y apprends
+  surtout à être autonome dans une grande base de code d'équipe.
+- 🎓 **En Bachelor**, un projet de groupe à quatre : YABT, une application web de blind test musical en temps réel, née
+  d'une envie de mêler le code et la musique.
+- 🎮 Jeux vidéo, musique et univers nerd le reste du temps.
 
 ## 🚀 Quelques projets
 
-- 🎵 **YABT** : blind test musical multijoueur en temps réel, React et Socket.io, projet de Bachelor à quatre
-- 🍔 **Panada Food** : [site vitrine d'un restaurant](https://panadafood.ovh), réalisé en binôme sur six semaines de
-  stage
+- 🎵 **YABT** : blind test musical multijoueur en temps réel, **React** et **Socket.io**, projet de Bachelor à quatre
+- 🍔 **Panada Food** : [site vitrine d'un restaurant](https://panadafood.ovh), réalisé en binôme pendant mes six semaines
+  de stage de deuxième année de BTS SIO
 
 ## 📫 Me contacter
 
